@@ -12,4 +12,3 @@ if output_path.lower().endswith(".png") or output_path.lower().endswith(".jpg") 
 
 result.save(output_path)
 
-#C:\Users\sagar\Desktop\Imagebgremover
