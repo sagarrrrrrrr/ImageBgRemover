@@ -16,32 +16,29 @@ A Python-based tool to automatically remove the background from images using mac
 
 ## 📦 Installation
 
-```bash
+
 git clone https://github.com/sagarrrrrrrr/imageBGremover.git
 cd imageBGremover
 pip install -r requirements.txt
 
-💡 Usage
-bash
-Copy
-Edit
+##💡 Usage
+
 python main.py input.jpg
-# or through the GUI/web interface if available
-📁 File Structure
-css
-Copy
-Edit
+
+
+## 📁 File Structure
 imageBGremover/
 ├── .gitattributes
 ├── main.py
 ├── images/
 ├── output/
 └── README.md
-🧠 How It Works
+
+## 🧠 How It Works
 This project uses a deep learning model to segment the foreground object from the background and outputs a transparent PNG. Ideal for product photography, profile pictures, or creative edits.
 
-📄 License
+## 📄 License
 MIT License
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Sagar R Hirulkar
